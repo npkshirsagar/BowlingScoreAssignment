@@ -1,0 +1,12 @@
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\bin\Debug\net6.0\BowlingGame.deps.json
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\bin\Debug\net6.0\BowlingGame.dll
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\bin\Debug\net6.0\BowlingGame.pdb
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.AssemblyReference.cache
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfoInputs.cache
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfo.cs
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.CoreCompileInputs.cache
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.dll
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\refint\BowlingGame.dll
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\BowlingGame.pdb
+C:\AnupWork\BowlingScoreAssignment\BowlingScore\BowlingGame\obj\Debug\net6.0\ref\BowlingGame.dll
